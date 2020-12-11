@@ -1,6 +1,6 @@
 <div align="center">
   <p style="text-align:center;">
-    <img src="images/fnotify.png">
+    <img src="images/inotify.png">
   </p>
 </div>
 
