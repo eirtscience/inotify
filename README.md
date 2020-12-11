@@ -51,7 +51,7 @@ Fnotify is similar to the linux notify program where it watch directory for chan
     ~$ fnotify --help
     ```
 
-## `Inotify command line`
+## `Fnotify command line`
 ---
   The below table describe the information needed by `fnotify` to work.
 <br>
